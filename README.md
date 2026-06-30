@@ -1,6 +1,10 @@
-# Density-Based Reliability Estimation for Medical AI
+# Density-Based Reliability Estimation for Medical AI with Gaussian Mixture Models in Centralized and Federated Settings
 
-This repository contains code for evaluating pointwise reliability estimation in medical AI using Gaussian Mixture Models (GMMs) in centralized and federated learning settings.
+This repository contains the official code for the paper:
+
+> **Density-Based Reliability Estimation for Medical AI with Gaussian Mixture Models in Centralized and Federated Settings**
+
+The code evaluates pointwise reliability estimation in medical AI using Gaussian Mixture Models (GMMs) in centralized and federated learning settings.
 
 The project trains an MLP classifier on tabular medical features, extracts latent embeddings, and evaluates reliability scores for misclassification detection.
 
